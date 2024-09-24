@@ -1,0 +1,40 @@
+body{
+    background-color:white;
+  margin: 0;
+    text-align: center;
+    
+ 
+}
+p{
+    font-size: 20px;
+}
+header{
+    background-color: grey;
+    color: white;
+    padding: 1rem 0.5rem;
+
+}
+.resaltar{
+    background-color: yellow;
+}
+
+.foto{
+    border: 10px  wheat solid ;
+    border-radius: 3rem;
+    
+    
+}
+footer a{
+    color: white;
+}
+footer a:hover{
+    
+    font-size: x-large;
+    font-weight: 900;
+}
+footer{
+    margin: 0;
+    background-color: #364552;
+padding: 3rem;
+text-align: center;
+}

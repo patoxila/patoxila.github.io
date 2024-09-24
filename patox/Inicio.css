@@ -1,0 +1,57 @@
+html{
+    font-family:'Times New Roman', Times, serif
+}
+
+body{
+    margin: 0 ;
+    background-color: #efefef;
+}
+
+header{
+    background-color: #364552;
+    color: white;
+    padding: 5rem 4rem;
+}
+
+header h1{
+font-size: 4rem;
+text-align:center;
+}
+
+section article{
+
+    padding: 4rem 0rem;
+background-color:bisque;
+
+}
+
+.imagen{
+
+    text-align:center;
+    
+
+}
+
+
+.src-1{
+
+    margin-right: 100px;
+
+}
+.src-3{
+    border-radius: 1rem;
+    margin-left: 100px;
+
+}
+
+footer{
+background-color: #364552;
+padding: 3rem;
+color: white;
+text-align: center;
+margin: 0;
+}
+
+
+
+
